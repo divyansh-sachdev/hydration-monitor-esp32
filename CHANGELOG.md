@@ -1,2 +1,3 @@
 - **2025-08-07 14:29:39**: refactor: modularize signal processing functions into separate header
 - **2025-08-07 18:42:19**: docs: add circuit wiring pinout and power consumption profile
+- **2025-08-14 10:30:27**: docs: clarify licensing and hardware bill of materials
