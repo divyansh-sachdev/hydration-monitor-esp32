@@ -2,3 +2,4 @@
 - **2025-08-07 18:42:19**: docs: add circuit wiring pinout and power consumption profile
 - **2025-08-14 10:30:27**: docs: clarify licensing and hardware bill of materials
 - **2025-08-19 14:55:48**: docs: document serial protocol packet structure and error codes
+- **2025-08-23 17:37:47**: feat: add dynamic threshold adaptation for environmental drift
