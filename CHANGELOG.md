@@ -3,3 +3,4 @@
 - **2025-08-14 10:30:27**: docs: clarify licensing and hardware bill of materials
 - **2025-08-19 14:55:48**: docs: document serial protocol packet structure and error codes
 - **2025-08-23 17:37:47**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-08-28 21:45:47**: feat: add EEPROM configuration persistence for user settings
