@@ -4,3 +4,4 @@
 - **2025-08-19 14:55:48**: docs: document serial protocol packet structure and error codes
 - **2025-08-23 17:37:47**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-08-28 21:45:47**: feat: add EEPROM configuration persistence for user settings
+- **2025-08-29 20:43:37**: perf: tune FreeRTOS task priority to eliminate frame drops
