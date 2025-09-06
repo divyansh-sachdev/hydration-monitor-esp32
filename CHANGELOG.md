@@ -7,3 +7,4 @@
 - **2025-08-29 20:43:37**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-09-03 17:32:30**: test: verify timer interrupt latency under heavy load
 - **2025-09-04 11:10:15**: test: validate thermal stability over continuous 6-hour test run
+- **2025-09-06 10:23:48**: refactor: modularize signal processing functions into separate header
