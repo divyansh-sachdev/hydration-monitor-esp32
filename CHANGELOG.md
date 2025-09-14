@@ -14,3 +14,4 @@
 - **2025-09-11 16:49:29**: fix: resolve floating point conversion precision issue
 - **2025-09-11 17:27:10**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-09-13 15:29:36**: feat: implement low-power light sleep mode during idle intervals
+- **2025-09-14 14:15:49**: fix: handle edge case timeout in sensor initialization loop
