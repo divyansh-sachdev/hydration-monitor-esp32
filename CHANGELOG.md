@@ -17,3 +17,4 @@
 - **2025-09-14 14:15:49**: fix: handle edge case timeout in sensor initialization loop
 - **2025-09-14 21:10:13**: docs: add circuit wiring pinout and power consumption profile
 - **2025-09-15 16:33:37**: test: verify timer interrupt latency under heavy load
+- **2025-09-17 21:36:43**: test: benchmark inference execution speed on ESP32 dual-core
