@@ -21,3 +21,4 @@
 - **2025-09-18 10:05:23**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-09-18 16:18:18**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-09-23 21:32:46**: fix: resolve floating point conversion precision issue
+- **2025-09-24 18:23:17**: feat: implement low-power light sleep mode during idle intervals
