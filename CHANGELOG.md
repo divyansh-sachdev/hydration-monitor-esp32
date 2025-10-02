@@ -22,3 +22,4 @@
 - **2025-09-18 16:18:18**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-09-23 21:32:46**: fix: resolve floating point conversion precision issue
 - **2025-09-24 18:23:17**: feat: implement low-power light sleep mode during idle intervals
+- **2025-10-02 19:34:46**: docs: add circuit wiring pinout and power consumption profile
