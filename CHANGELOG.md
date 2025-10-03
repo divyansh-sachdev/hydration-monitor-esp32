@@ -25,3 +25,4 @@
 - **2025-10-02 19:34:46**: docs: add circuit wiring pinout and power consumption profile
 - **2025-10-02 21:25:50**: feat: add hardware failsafe watchdog timer routine
 - **2025-10-02 21:33:46**: perf: optimize memory footprint by reducing ring buffer depth
+- **2025-10-03 11:35:38**: feat: add dynamic threshold adaptation for environmental drift
