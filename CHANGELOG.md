@@ -28,3 +28,4 @@
 - **2025-10-03 11:35:38**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-10-07 19:41:22**: docs: clarify licensing and hardware bill of materials
 - **2025-10-08 19:11:31**: refactor: simplify state machine transition logic
+- **2025-10-13 20:48:34**: feat: implement low-power light sleep mode during idle intervals
