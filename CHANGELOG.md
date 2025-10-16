@@ -30,3 +30,4 @@
 - **2025-10-08 19:11:31**: refactor: simplify state machine transition logic
 - **2025-10-13 20:48:34**: feat: implement low-power light sleep mode during idle intervals
 - **2025-10-14 11:42:19**: fix: prevent buffer underflow during rapid sensor reads
+- **2025-10-16 14:18:31**: fix: prevent buffer underflow during rapid sensor reads
