@@ -32,3 +32,4 @@
 - **2025-10-14 11:42:19**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-10-16 14:18:31**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-10-19 14:09:28**: refactor: clean up debug logs and serial telemetry
+- **2025-10-21 18:14:20**: fix: calibrate baseline sensor offset against reference multimeter
