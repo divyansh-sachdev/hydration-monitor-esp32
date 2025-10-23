@@ -34,3 +34,4 @@
 - **2025-10-19 14:09:28**: refactor: clean up debug logs and serial telemetry
 - **2025-10-21 18:14:20**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-10-21 20:07:31**: feat: implement moving average filter for noise suppression
+- **2025-10-23 15:24:40**: fix: handle edge case timeout in sensor initialization loop
