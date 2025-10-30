@@ -36,3 +36,4 @@
 - **2025-10-21 20:07:31**: feat: implement moving average filter for noise suppression
 - **2025-10-23 15:24:40**: fix: handle edge case timeout in sensor initialization loop
 - **2025-10-27 17:40:16**: fix: resolve floating point conversion precision issue
+- **2025-10-30 18:10:33**: refactor: optimize ADC sampling window and reduce jitter
