@@ -38,3 +38,4 @@
 - **2025-10-27 17:40:16**: fix: resolve floating point conversion precision issue
 - **2025-10-30 18:10:33**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-10-30 20:28:25**: refactor: modularize signal processing functions into separate header
+- **2025-10-31 11:50:31**: docs: update README setup instructions and dependencies
